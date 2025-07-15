@@ -1,7 +1,7 @@
 // JS File N
 
 function p() {
-  document.getElementById("p").innerText = "Salam !!!!";
+  document.getElementById("p").innerText = "Salammmm !!!!";
 }
 
 // JS File N
